@@ -1,0 +1,13 @@
+.titulo
+{
+
+	font-size: xx-large;
+    color: blue;
+
+}
+.contenido
+{
+	font-style: italic;
+    font-weight: inherit;
+    background-color: aqua;
+}
